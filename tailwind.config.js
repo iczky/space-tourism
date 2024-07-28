@@ -12,6 +12,7 @@ export default {
     extend: {
       fontFamily: {
         bellefair: ["Bellefair", "serif"],
+        barlowcondensed: ["Barlow Condensed", "serif"],
       },
       fontSize: {
         '9xl': '144px',
